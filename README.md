@@ -1,3 +1,4 @@
+jogo antigo de 2025.1
 # Birdy Rush – Jogo em C
 
 **“É mais que um trabalho para ganhar pontos. É uma arte.”**
